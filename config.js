@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://jchen8tw.github.io',
   title: 'Justin Chen',
   subtitle: 'This is the place where I store my thoughts.',
-  copyright: '© All rights reserved.',
+  copyright: '© All rights reserved. build with gatsby-starter-lumen',
   disqusShortname: '',
   postsPerPage: 4,
 //  googleAnalyticsId: 'UA-73379983-2',
