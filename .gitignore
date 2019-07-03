@@ -1,0 +1,10 @@
+node_modules/
+**/.DS_Store
+flow-typed/
+public/
+.cache/
+npm-debug.log
+.eslintcache
+.gatsby-context.js
+.idea
+gatsby-starter-lumen.iml
