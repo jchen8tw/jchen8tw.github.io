@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://jchen8tw.github.io',
+  title: 'Justin Chen',
+  subtitle: 'This is the place where I store my thoughts.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+//  googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
       label: 'Articles',
@@ -23,16 +23,16 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Justin Chen',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I\'m currently a college student major in EE of National Taiwan University',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'cchen8tw@gmail.com',
+//      telegram: '#',
+//      twitter: '#',
+      github: 'jchen8tw',
+//      rss: '#',
+//      vkontakte: '#'
     }
   }
 };
